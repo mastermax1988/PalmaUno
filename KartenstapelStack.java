@@ -69,12 +69,8 @@ public class KartenstapelStack implements Kartenstapel
      */
     public boolean legeAb(Karte karte)
     {
-        if(passtZu(karte))
-        {
-            stack.push(karte);
-            return true;
-        }
-        return false;
+        stack.push(karte);
+        return true;
     }
     
     /**

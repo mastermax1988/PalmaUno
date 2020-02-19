@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Spieler
+comment0.text=\n\ Abstract\ class\ Spieler\ -\ write\ a\ description\ of\ the\ class\ here\n\n\ @author\ (your\ name\ here)\n\ @version\ (version\ number\ or\ date\ here)\n
+comment1.params=a\ z
+comment1.target=Spieler(KartenstapelStack,\ KartenstapelStack)
+comment2.params=Anzahl
+comment2.target=void\ zieheKarte(int)
+comment3.params=
+comment3.target=java.lang.String\ nenneKarten()
+numComments=4
