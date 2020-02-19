@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Farbe
+comment0.text=\n\ Die\ Farbe\ einer\ Spielkarte.\n\ \n\ @author\ NQ\n\ @version\ 2020-02-19\n
+comment1.params=gewuenschteZeichenfarbe
+comment1.target=Farbe(java.lang.String)
+comment1.text=\n\ Konstruktor.\n\ Erzeuge\ eine\ Farbe\ mit\ ihrer\ gewuenschten\ Zeichenfarbe.\n
+comment2.params=
+comment2.target=java.lang.String\ gibZeichenfarbe()
+comment2.text=\n\ Nenne\ die\ Zeichenfarbe.\n
+numComments=3

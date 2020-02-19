@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Wert
+comment0.text=\n\ Der\ Wert\ einer\ Spielkarte.\n\ \n\ @author\ NQ\n\ @version\ 2020-02-19\n
+comment1.params=gewuenschterAufdruck
+comment1.target=Wert(java.lang.String)
+comment1.text=\n\ Konstruktor.\n\ Erzeuge\ einen\ Wert\ mit\ dem\ gewuenschten\ Aufdruck.\n
+comment2.params=
+comment2.target=java.lang.String\ gibAufdruck()
+comment2.text=\n\ Nenne\ den\ Aufdruck.\n
+numComments=3

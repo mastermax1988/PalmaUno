@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Kreissektor
+comment0.text=\n\ Zeichnet\ einen\ Kreissektor\ auf\ die\ Leinwand.\n\ \n\ @author\ Bernd\ Gramlich\ nach\ einer\ Vorlage\ von\ Michael\ K\u00F6lling\ und\ David\ J.\ Barnes\ \n\ @version\ 2019-10-10\n
+comment1.params=
+comment1.target=Kreissektor()
+comment1.text=\n\ Konstruktor\ der\ Klasse\ Kreissektor.\n\ Erzeugt\ einen\ neuen\ Kreissektor\ in\ Standardgroesse\ und\ Standardfarbe.\n
+comment2.params=neuerRadius
+comment2.target=void\ setzeRadius(int)
+comment2.text=\n\ Aendere\ den\ Radius\ dieses\ Kreissektors.\n
+comment3.params=neuerAnfangswinkel
+comment3.target=void\ setzeAnfangswinkel(int)
+comment3.text=\n\ Aendere\ den\ Anfangswinkel\ dieses\ Kreissektors.\n
+comment4.params=neuerGesamtwinkel
+comment4.target=void\ setzeGesamtwinkel(int)
+comment4.text=\n\ Aendere\ den\ Gesamtwinkel\ dieses\ Kreissektors.\n
+comment5.params=
+comment5.target=java.awt.geom.Arc2D.Double\ gibFigur()
+comment5.text=\n\ Nenne\ den\ Kreissektor\ als\ Figur\ (festgelegt\ durch\ Koordinaten,\n\ Radius,\ Anfangswinkel\ und\ Gesamtwinkel).\n
+numComments=6

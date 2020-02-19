@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Kartenstapel
+comment0.text=\n\ Schnittstelle\ eines\ Kartenstapels\ fuer\ ein\ Uno-Spiel.\n\ \n\ @author\ NQ\ \n\ @version\ 2020-02-19\n
+comment1.params=
+comment1.target=boolean\ istLeer()
+comment1.text=\n\ Pruefe,\ ob\ der\ Stapel\ leer\ ist.\n\ \n\ @return\ True\ genau\ dann,\ wenn\ der\ Stapel\ leer\ ist.\n
+comment2.params=
+comment2.target=int\ gibKartenzahl()
+comment2.text=\n\ Nenne\ die\ Anzahl\ der\ Karten\ im\ Stapel.\n\ \n\ @return\ Die\ Anzahl\ der\ im\ Stapel\ verbliebenen\ Karten.\n
+comment3.params=
+comment3.target=Karte\ ziehe()
+comment3.text=\n\ Ziehe\ die\ oberste\ Karte.\n\ \n\ @return\ Die\ bisherige\ oberste\ Karte\ des\ Stapels\ (oder\ null,\ falls\n\ \ \ \ \ \ \ \ \ der\ Stapel\ leer\ ist).\n
+comment4.params=karte
+comment4.target=boolean\ passtZu(Karte)
+comment4.text=\n\ Pruefe,\ ob\ die\ angegebene\ Karte\ laut\ Spielregeln\ auf\ den\ Stapel\ passt.\n\ \n\ @param\ karte\ Die\ zu\ pruefende\ Karte.\n\ \n\ @return\ True\ genau\ dann,\ wenn\ die\ Karte\ auf\ den\ Stapel\ abgelegt\ werden\n\ \ \ \ \ \ \ \ \ darf.\n
+comment5.params=karte
+comment5.target=boolean\ legeAb(Karte)
+comment5.text=\n\ Lege\ die\ angegebene\ Karte\ auf\ den\ Stapel\ ab.\n\ \n\ @param\ karte\ Die\ abzulegende\ Karte.\n
+comment6.params=
+comment6.target=void\ mische()
+comment6.text=\n\ Mische\ den\ Kartenstapel.\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ Beschreibe\ den\ Inhalt\ des\ Kartenstapels\ als\ Zeichenkette.\n\ \n\ @return\ Alle\ Karten\ des\ Stapels\ als\ Zeichenkette.\n
+numComments=8

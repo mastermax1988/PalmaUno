@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Parallelogramm
+comment0.text=\n\ Zeichnet\ ein\ Parallelogramm\ auf\ die\ Leinwand.\n\ \n\ @author\ Bernd\ Gramlich\n\ @version\ 2019-10-10\n
+comment1.params=
+comment1.target=Parallelogramm()
+comment1.text=\n\ Konstruktor\ der\ Klasse\ Parallelogramm.\n\ Erzeugt\ ein\ neues\ Parallelogramm\ in\ Standardgroesse\ und\ Standardfarbe.\n
+comment2.params=x1\ y1\ x2\ y2\ x3\ y3
+comment2.target=void\ setzeEckpunkte(int,\ int,\ int,\ int,\ int,\ int)
+comment2.text=\n\ Setze\ die\ Eckpunkte\ des\ Parallelogramms.\n\ Dazu\ werden\ die\ x-\ und\ die\ y-Koordinaten\ der\ ersten\ drei\n\ Eckpunkte\ benoetigt.\ Die\ Koordinaten\ des\ vierten\ Eckpunkts\n\ werden\ vor\ dem\ Zeichnen\ automatisch\ so\ berechnet,\ dass\ er\n\ im\ Gegenuhrzeigersinn\ den\ drei\ angegebenen\ Punkten\ folgt.\n\ (Genauer\:\ (x2|y2)\ wird\ an\ der\ Geraden\ durch\ (x1|y1)\ und\n\ (x3|y3)\ gespiegelt.)\n
+comment3.params=dx\ dy
+comment3.target=void\ verschiebe(int,\ int)
+comment3.text=\n\ Verschiebe\ dieses\ Parallelogramm\ um\ den\ Vektor\ (dx,\ dy).\n
+comment4.params=
+comment4.target=java.awt.Polygon\ gibFigur()
+comment4.text=\n\ Nenne\ das\ Parallogramm\ als\ Figur\ (festgelegt\ durch\ drei\n\ Eckpunkte).\n
+numComments=5

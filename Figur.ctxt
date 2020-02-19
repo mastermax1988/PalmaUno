@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Figur
+comment0.text=\n\ Zeichnet\ eine\ Figur\ auf\ der\ Leinwand.\n\ \n\ @author\ Bernd\ Gramlich\n\ @version\ 2019-12-15\n
+comment1.params=punkt
+comment1.target=boolean\ enthaelt(java.awt.geom.Point2D)
+comment1.text=\n\ Pruefe,\ ob\ ein\ Punkt\ in\ dieser\ Figur\ enthalten\ ist.\n
+comment2.params=andere
+comment2.target=boolean\ schneidet(Figur)
+comment2.text=\n\ Pruefe,\ ob\ diese\ Figur\ eine\ andere\ Figur\ schneidet.\n
+comment3.params=
+comment3.target=java.awt.Shape\ gibFigur()
+comment3.text=\n\ Nenne\ die\ Figur,\ die\ zu\ zeichnen\ ist.\n
+comment4.params=
+comment4.target=void\ zeichne()
+comment4.text=\n\ Zeichne\ diese\ Figur\ auf\ die\ Leinwand.\n\ (Die\ Figur\ muss\ von\ der\ Unterklasse\ korrekt\ definiert\ sein.)\n
+comment5.params=
+comment5.target=void\ loesche()
+comment5.text=\n\ Loesche\ diese\ Figur\ von\ der\ Leinwand.\n
+numComments=6

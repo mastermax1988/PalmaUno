@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ellipse
+comment0.text=\n\ Zeichnet\ eine\ Ellipse\ mit\ achsenparallelen\ Halbachsen\ auf\ die\ Leinwand.\n\ \n\ @author\ Bernd\ Gramlich\n\ @version\ 2020-02-07\n
+comment1.params=
+comment1.target=Ellipse()
+comment1.text=\n\ Konstruktor\ der\ Klasse\ Ellipse.\n\ Erzeugt\ eine\ neue\ Ellipse\ in\ Standardgroesse\ und\ Standardfarbe.\n
+comment2.params=neueHoehe
+comment2.target=void\ setzeHoehe(int)
+comment2.text=\n\ Aendere\ die\ Hoehe\ dieser\ Ellipse.\n
+comment3.params=neueBreite
+comment3.target=void\ setzeBreite(int)
+comment3.text=\n\ Aendere\ die\ Breite\ dieser\ Ellipse.\n
+comment4.params=
+comment4.target=java.awt.geom.Ellipse2D.Double\ gibFigur()
+comment4.text=\n\ Nenne\ die\ Ellipse\ als\ Figur\ (festgelegt\ durch\ Koordinaten,\n\ Breite\ und\ Hoehe).\n
+numComments=5
